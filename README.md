@@ -16,10 +16,10 @@ This project is built using
 *Kera, Tensorflow
 
 ## Setup 
-For this project to run successfully ensure python and and pyspark is intalled
+For this project to run successfully ensure python and and sklearn is installed
 ```
     To install python - brew install python for mac users
-    To install pyspark - pip3 install pyspark/pip install pyspark
+    To install sklearn - pip3 install scikit-learn/pip install scikit-learn
 ```
 
 ## Evaluation
